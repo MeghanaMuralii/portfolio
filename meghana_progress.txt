@@ -1,0 +1,10 @@
+Day1 06.02.2025
+
+study:                      
+    create git 
+    division bar
+    nav bar
+
+challenges:
+    add the files to git
+
